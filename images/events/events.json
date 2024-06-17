@@ -1,0 +1,231 @@
+{
+  "events": [
+    {
+      "name": "CodeXpress 3.0",
+      "date": ["2020-05-07"],
+      "venue": "Training and Placement Hall, SFIT",
+      "conducted": "CodeX-SFIT",
+      "published-date": "2020-03-10",
+      "published-time": "09:00am",
+      "header-image": "image-name.jpg",
+      "images": ["image-name.jpg", "other-image.jpg"],
+      "description": "CodeXpress 3.0 is the third edition of the coding competition organized by the Code-X team for their fellow coders. This competition was conducted on 7th March 2020. The competition was divided into two sections which were the Alpha level competition which provided the maximum number of participants and the Beta level competition. There were a total of 87 participants for this competition among which 65 were for the Alpha competition, and 22 were for the Beta competition. As it was a competitive competition we used the Techgig platform to organize it.<br />The Alpha level competition was typically held for coders who had previous experience in taking part in such competitive competitions. At the Alpha level, the participants could participate as a solo competitor or in a group of two. A total of eight questions were divided into three sections according to the level of difficulty starting from easy to hard.<br />The Beta level competition was held for coders who had no former experience taking part in such competitive competitions and for beginners who genuinely wanted to improve their competitive coding and test their coding skills. In the Beta level, the participants could participate as a solo competitor or in a group of two. A total of twelve questions were divided into three sections according to the level of difficulty starting from easy to hard. Mentors were provided to the participants if they needed help during the competition. Also during the competition all the participants were provided with tea and coffee according to their convenience.",
+      "winners": [
+        {
+          "type": "First Place",
+          "tag": "</> Alpha",
+          "names": ["Rayyan Merchant", "Saurav Joshi"],
+          "image": "image-name.png"
+        },
+        {
+          "type": "Second Place",
+          "tag": "</> Beta",
+          "names": ["Rishabh Bhatnagar"],
+          "image": "image-name.png"
+        }
+      ],
+      "social-embed": "<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/p/B9e3MJenY__/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"13\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/B9e3MJenY__/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"></div></div></a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https://www.instagram.com/p/B9e3MJenY__/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by C O D E X (@codexsfit)</a></p></div></blockquote> <script async src=\"//www.instagram.com/embed.js\"></script>"
+    },
+
+    {
+    "name": "Blockchain Workshop",
+    "date": ["2019-09-28","2019-09-29"],
+    "day":["Saturday","Sunday"],
+    "time":["Day 1 and 2:10:00 am to 4:00 pm"],
+    "venue": "Room: Computer Center, SFIT.",
+    "conducted": "CodeX-SFIT",
+    "published-date": "2019-09-30",
+    "published-time": "09:00am",
+    "header-image": "BlockChain1",
+    "images": ["BlockChain1"],
+    "description":"The Blockchain workshop was organized by the Code-X committee on 28th and 29th September 2019.As it was a hands-on workshop, the sessions were divided into 2 days slots and covered the basics of Block Chain.\r\n\r\nThe session was conducted by Mr. Vikash Kumar and Mr. Jetso Analin on both days. A total of 43 participants were involved in both the days of the workshop.\r\n\r\nDay 1\r\nSession 1:\r\n\u201CIntroduction to Blockchain\u201D was covered which included the major reasons why we should work on the blockchain as it is immutable, very secure, it is transparent, decentralized any many more. The instructors mainly focused on these terminologies making sure all participants were able to keep up. The instructors gave access to all the participants to their apps \u201DBlocklogy\u201D and \u201DBlockLogy Lite\u201D to acquire more knowledge about blockchain.\r\n\r\nSession 2:\r\nThe participants were introduced to the application of blockchain as they created their very own digital wallets and then added some virtual ethers in it and shared with each other. Before concluding the session participants were shown the live applications of blockchain technology.\r\n\r\nDay 2\r\nConducted by Mr. Jetso Analin, the participants were introduced to the term \u201Csmart-contract\u201D. They were also introduced to a new programming language Solidity which is required to work on blockchain technology. The participants using solidity created their own virtual digital currency. In the final session, the participants created their own banks to handle basic transactions. Before concluding the session, the members of the BlockLogy team informed the participants about the internships they provide and how one can work with them.",
+    "social-embed":" <blockquote class=\"instagram-media\" data-instgrm-permalink=\"https:\/\/www.instagram.com\/p\/B3PYrAVnkzq\/?utm_source=ig_embed&amp;utm_campaign=loading\" data-instgrm-version=\"12\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https:\/\/www.instagram.com\/p\/B3PYrAVnkzq\/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"><\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"><\/div><\/div><\/div><div style=\"padding: 19% 0;\"><\/div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"https:\/\/www.w3.org\/1999\/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"><\/path><\/g><\/g><\/g><\/svg><\/div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram<\/div><\/div><div style=\"padding: 12.5% 0;\"><\/div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"><\/div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"><\/div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"><\/div><\/div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"><\/div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"><\/div><\/div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"><\/div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"><\/div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"><\/div><\/div><\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"><\/div><\/div><\/a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https:\/\/www.instagram.com\/p\/B3PYrAVnkzq\/?utm_source=ig_embed&amp;utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by CodeX (@codexsfit)<\/a> on <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2019-10-05T14:51:03+00:00\">Oct 5, 2019 at 7:51am PDT<\/time><\/p><\/div><\/blockquote> <script async src=\"\/\/www.instagram.com\/embed.js\"><\/script>"
+
+    },
+    {
+      "name": "JavaFX + MySQL + JDBC Workshop for SE",
+      "date": "2019-09-21",
+      "participants":"90 students",
+      "time":"9:15 a.m. to 5:00 p.m.",
+      "venue": "Room: Computer Center, SFIT.",
+      "conducted": "CodeX-SFIT",
+      "published-date": "2019-09-22",
+      "published-time": "09:00am",
+      "header-image": "javafxHeader",
+      "images": ["javafxHeader","javafx1","javafx2","javafx3","javafx4","javafx5"],
+      "description":"The main idea for the Workshop was inspired by the students\u2019 need to make a Java Project. CodeX Team decided to help and teach, the students of SE CMPN A and B, the basic concepts required to make a Java software which stores the data in a database. It was conducted under the guidance of Prof. Tejal Carwalho (Faculty for OOPM - SE CMPN A and B) and Prof. Rupesh Mishra (CodeX Coordinator).\r\n\r\nThe Speakers for the day were:\r\n\r\nManas Acharya\r\nSanket Dalvi\r\nSahil Nirkhe\r\nAssisted by CodeX geeks:\r\n\r\nRitika Bhole\r\nDaniel Lobo\r\nDwayne Fernandes\r\nLeander Fernandes\r\nKevin Fernandes\r\nSession 1:\r\nThe Workshop started at 10:00am. The first session, on JavaFX using SceneBuilder was taken by Manas Acharya. The students followed the steps and progressed towards making their own layout. The Technical Team was handling the doubts of the students while also explaining the necessary content. At 12:00pm, the students and the volunteers were given a lunch break of 30 minutes.\r\n\r\nSession 2:\r\nThe workshop resumed at 12:45pm and the session was taken over by Sanket Dalvi. The topic was MySQL CRUD using phpMyAdmin. After a short brief on the theory, the students were guided on the practical way to implement it.\r\n\r\nSession 3:\r\nThe final session of the workshop on Java Database Connectivity was taken by Sahil Nirkhe. With the explanation of how to connect the previous two sessions and make the project complete, the step by step code and its explanation was given. After the successful compilation and presentation of the code, the Technical team volunteers took rounds to solve the errors in the students\u2019 code. By the end of the workshop, students had a functional project ready with them."
+    },
+    {
+      "name": "TriVizard",
+      "date":" 2019-8-31",
+      "day":"Saturday",
+      "time":"10:00 am to 3:00 pm",
+      "venue": "429",
+      "conducted":"CodeX-SFIT",
+      "published-date": "2019-09-1",
+      "published-time": "10:00am",
+      "header-image": "trivizardHeader",
+      "images": ["trivizardHeader"],
+      "description":"TriVizaRd Challenge is a labyrinth where participants have to come out of a virtual maze as fast as they can. In this game, every participant is a student at Hogwarts School of Witchcraft and Wizardry. The school is hosting the grand TriVizaRd Tournament. TriVizaRd Tournament is a Virtual Reality take on Harry Potter's Triwizard Tournament. The participants will have to move through this virtual bewilderment tackling technical obstacles and challenges. The one who reaches the TriVizaRd Cup in the least time will be declared the TriVizaRd Champion.\r\n\r\nEvery participant was provided with a VR headset where he\/she has to play the game. Participants can control the game with his\/her movements.\r\n\r\nThe game was represented by individuals and not groups. For the flawless execution of this event, the team used Unity and Blender software to design the game. The Virtual Reality maze is an original creation of the CODE-X'S Technical team.",
+        "winners": [
+        {
+          "type": "First place",
+          "tag": "</> Winner",
+          "names": ["Mark Tapeli - TE IT A"],
+          "image": "trivizard1"
+        },
+        {
+          "type": "Second place (shared)",
+          "tag": "</> Winner",
+          "names": ["Sneha Jain - BE CMPN B"],
+          "image": "trivizard2a"
+        },
+        {
+          "type": "Second place (shared)",
+          "tag": "</> Winner",
+          "names": ["Anudnya Patil - FE IT B"],
+          "image": "trivizard2b"
+        }
+      ]
+    },
+    {
+      "name": "AI Apocalypse",
+      "date": ["2019-08-31"],
+      "venue": "404",
+      "conducted": "CodeX-SFIT",
+      "published-date": "2019-09-01",
+      "published-time": "10:00am",
+      "header-image": "ai_apocalypseHeader",
+      "images": ["ai_apocalypseHeader"],
+      "description": "A.I. Apocalypse is an event based on the concept of escape room where clues was provided by a Mobile app which was based on the voice bot theme, created by the CODE-X's technical team. This event offered participants a chance to fight against the evil A.I. which is about to end the entire humankind, the A.I have locked the players into Area 51 and they receive seven minutes to decode the clues and escape Area 51 to preserve the human race. The game typically consists of two areas, which are the security room where the line of work starts followed by the research facility.\r\n\r\nThis game consisted of many unique and original puzzles created by the entire CODE-X team to make this event intriguing.\r\n\r\nFor this event, the CODE-X team came up and designed puzzles and props to go along with the puzzles."
+        },
+        {
+          "name": "Bandersnatch",
+          "date":" 2019-8-31",
+          "day":"Saturday",
+          "time":"10:00 am to 3:00 pm",
+          "venue": "529",
+          "conducted":"CodeX-SFIT",
+          "published-date": "2019-09-1",
+          "published-time": "10:00am",
+          "header-image": "bandesnatchHeader",
+          "images": ["bandesnatchHeader","bandersnatch1"],
+          "description":"BANDERSNATCH was a mystery-solving event where clues was decoded using Augmented Reality. It was an extremely thrilling game with multiple endings where every choice you make could alter the story. This event provided the participants to get into the shoes of great private investigators like Sherlock Holmes and Hercule Poirot to find the world-famous fugitive and an Indian businessman Nirav Modi who absconded with $500 million.\r\n\r\nIn this game, the participants had to find objects and scan them to receive clues. This game is all about solving a mystery story that proceeds as the participants uncover the clues.\r\n\r\nFor this event, the CODE-X team created an original script and a mobile Android application with a chat interface.",
+              "winners": [
+            {
+              "type": "First place (Group of 3)",
+              "tag": "</> Winner",
+              "names": ["Naman Dangwan - FE CMPN A","Joyston Britto - FE CMPN A","Alan D’souza - FE CMPN A"],
+              "image": "bandersnatch1"
+            }
+
+          ]
+        },
+
+
+        {
+          "name": "CodeXpress 2.0",
+          "date": ["2018-09-20"],
+          "venue": "ARC, SFIT",
+          "conducted": "CodeX-SFIT",
+          "published-date": "2018-09-20",
+          "published-time": "09:00am",
+         "header-image": "Code-XpressHeader2018",
+         "images": ["Code-XpressHeader20181", "Code-XpressHeader20182","Code-XpressHeader20183"],
+          "description": "Code–Xpress 2.0 2018 was the coding competition which was organized by Code – X committee. The competition was conducted on HackerRank platform. Participants in this event were exposed to 8(Eight) problems statements from beginner to expert level. These problem statements were formed and uploaded by the Code-X team on the HackerRank platform. The event started at 10 a.m. where all the participants had assembled in Room 111. There was no specific order in which participants had to attempt the questions. A total of 21 participants were attempting the competition. All the participants were enthusiastic towards the competition. There was a time limit of 9 hours and hackathon ended at 4:00 p.m. at evening.",
+          "winners": [
+            {
+              "type": "First Place",
+              "tag": "</>Winner",
+              "names": ["Aston Lopes (SE CMPN A)"],
+              "image": "Code-Xpress20181a"
+            },
+            {
+              "type": "First Place",
+              "tag": "</>Winner",
+              "names": ["Maroof Khatib (TE CMPN A) ,Jowin Jestine (TE CMPN A)"],
+              "image": "Code-Xpress20181b"
+            },
+            {
+              "type": "Second Place",
+              "tag": "</> Winner",
+              "names": ["Manas Acharya (SE CMPN A) Sanket Dalvi (SE CMPN A)"],
+             "image": "Code-Xpress20182"
+            }
+          ]
+
+        },
+
+        {
+          "name": "Hunt-AR 2.0",
+          "date": ["2018-09-01"],
+          "venue": "Room No:403, SFIT",
+          "Day":"Saturday",
+          "Time":"10:00 am to 1:00 pm",
+          "conducted": "CodeX-SFIT",
+          "published-date": "2018-09-20",
+          "published-time": "09:00am",
+         "header-image": "Hunt-AR2Header",
+         "images": ["Hunt-AR2Header"],
+          "description": "HuntAR 2.0 was a treasure hunt event conducted and organized by Code-X committee in the technical fest, Mosaic 2018 of the St. Francis Institute of Technology. Last year HuntAR was a success, so this year all the committee members were determined to make this sequel a sucess. The event included clues had to be decoded using AR (Augmented Reality) technology. Participation was in 4-5 students and such 23 groups had participated in HuntAR event. Top three groups from among the all groups with the least amount of time were selected as the ultimate winners for the HuntAR event. ",
+          "winners": [
+            {
+              "type": "First Place",
+              "tag": "</>Winner",
+              "names": ["Yash Prasad, SE CMPN B, Goodlish Mourya, SE CMPN A, Jeff Cliffors, SE CMPN B,  Ryan Rony Peirera, SE CMPN B, Aston Jimmy Lopez, SE CMPN A"],
+              "image": "Hunt-AR21"
+            },
+            {
+              "type": "Second Place",
+              "tag": "</>Winner",
+              "names": ["Amritha Prakash, TE CMPN A, Nishita Dubey, TE CMPN A, Snovia Gonsalves, TE CMPN A , Sneha Jha, TE CMPN A"],
+              "image": "Hunt-AR22"
+            },
+            {
+              "type": "Third Place",
+              "tag": "</> Winner",
+              "names": ["Almash Alam, FE CMPN A, Mrudula Acharya, FE CMPN A,  Priya Ratnagharya, FE CMPN A,  Karan Surve, FE CMPN A"],
+             "image": "Hunt-AR23"
+            }
+          ]
+        
+        },
+        {
+          "name": "First Inter College Project Competetion 2018",
+          "date": ["2018-08-07"],
+          "venue": "New Library, SFIT",
+          "Day":"Saturday",
+          "Time":"9:00 am to 4:00 pm",
+          "conducted": "CodeX-SFIT",
+          "published-date": "2018-09-20",
+            "published-time": "09:00am",
+          
+         
+         "header-image": "First Inter College Project Competetion 2018Header",
+         "images": ["First Inter College Project Competetion 2018Header"],
+          "description": "<b>Competetion Schedule<b>:<br><ol><li> Date : 7th April, 2018 </li> <li>Venue : New Library</li><li> Day : Saturday</li><li> Time : 9:00 am to 4:00 pm</li>",
+          "image":[" First Inter College Project Competetion 20181","First Inter College Project Competetion 20182","First Inter College Project Competetion 20183"]
+        
+        },
+    
+
+
+
+
+
+        {
+          "name": "Deep Learning Hands-on Workshop",
+          "date": ["2018-03-29","2018-03-31"],
+          "venue": "Computer Lab-112, SFIT",
+          "conducted": "CodeX-SFIT",
+          "published-date":["2018-03-29","2018-03-31"], 
+          "published-time": "10:00am",
+          "header-image": "Deep Learning Hands-on WorkshopHeader",
+          "images": ["Deep Learning Hands-on WorkshopHeader"],
+          "description": "<b>Workshop Schedule:<b><br> <br> Day 1:<br>Date : 29th March, 2018</br><br>Venue : Computer Lab-112, SFIT.</br><br>Day : Thursday</br> <br>Time : 10:00am – 3:00 pm</br>The first day began at the registration desk with a huge crowd lined up excited for the workshop. The participants were allocated computers before getting started with the workshop.The workshop began sharp at 10:00 am with an introduction to the workshop and how will it flow throughout the days by Mast. Akib. After a brief introduction to the workshop, he started with introduction to python and its basics, Jupyter notebook, setting up Anaconda, and working environment and all other activities lined up for the morning session of day 1.      At 12:00 pm, there was a lunch break for all the participants as well as the volunteers to fill their empty stomach after having a great learning session. The lunch was over by 12:30 pm. After lunch, the participants moved back and sat down to their PCs. Workshop started again and basics of Deep Learning were explained . In the end, the workshop was ending on a thanking note to all the participants who attended the workshop and hoped that they learned something new today.<br>Day 2 :</br>  <br>Date : 31th March, 2018 </br> <br>Venue : Computer Lab-112, SFIT. </br><br>Day : Saturday</br> <br>Time : 10:00am – 3:00 pm</br>  The day began with the Akib revising a few topics that we did on the first day and continued with the new points as mentioned. Day 2 being much better than day one, all of the participants enjoyed the workshop.They were taught to identify objects using DL, it was the one of the most interesting segment. We ended day 2 on a thanking note to all the participants for attending the workshop and inspiring them to learn something new every day.",
+          "image": ["Deep Learning Hands-on Workshop1", "Deep Learning Hands-on Workshop2"]
+    
+        }
+    
+  ]
+}
