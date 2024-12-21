@@ -1,0 +1,438 @@
+[
+  {
+    "year": "2024",
+    "name": "pip install",
+    "groups": [
+      "core",
+      "faculty",
+      "graphics",
+      "web",
+      "technical",
+      "publicity",
+      "documentation",
+      "event",
+      "photography",
+      "marketing"
+    ],
+    "members": [
+      {
+        "name": "Deep Patel",
+        "position": "President",
+        "group": "core",
+        "image": "2024/Deep.jpg"
+      },
+      {
+        "name": "Shravani Trivedi",
+        "position": "Vice President",
+        "group": "core",
+        "image": "2024/Shravani.jpg"
+      },
+      {
+        "name": "Royan Chetty",
+        "position": "Treasurer",
+        "group": "core",
+        "image": "2024/Royan.jpg"
+      },
+      {
+        "name": "Melwin Das",
+        "position": "General Secretary",
+        "group": "core",
+        "image": "2024/Melwin.jpg"
+      },
+      {
+        "name": "Rupesh Mishra",
+        "type": "faculty",
+        "position": "Faculty Advisor",
+        "group": "faculty",
+        "image": "2021/rupesh.png"
+      },
+      {
+        "name": "Dr. Kavita Sonawane",
+        "type": "faculty",
+        "position": "H.O.D.",
+        "group": "faculty",
+        "image": "2021/kavita.png"
+      },
+      {
+        "name": "Shriya Saxena",
+        "position": "Graphics Head",
+        "group": "graphics",
+        "image": "2024/Shriya.jpg"
+      },
+      {
+        "name": "Jeff Paul",
+        "position": "Graphics Joint Head",
+        "group": "graphics",
+        "image": "2024/Jeff.jpg"
+      },
+      {
+        "name": "Pournima Rode",
+        "position": "Graphics Joint Head",
+        "group": "graphics",
+        "image": "2024/Pournima.jpg"
+      },
+      {
+        "name": "Mayuresh Raul",
+        "position": "Graphics Executive",
+        "group": "graphics",
+        "image": "2024/Mayuresh.jpg"
+      },
+      {
+        "name": "Eugene Dabre",
+        "position": "Graphics Executive",
+        "group": "graphics",
+        "image": "2024/Eugene.jpg"
+      },
+      {
+        "name": "Parthesh Purohit",
+        "position": "Web Master",
+        "group": "web",
+        "image": "2024/Parthesh.jpg"
+      },
+      {
+        "name": "Bhavik Solanki",
+        "position": "Technical Head",
+        "group": "technical",
+        "image": "2024/Bhavik.jpg"
+      },
+      {
+        "name": "Aditya Yadav",
+        "position": "Joint Technical Head",
+        "group": "technical",
+        "image": "2024/Aditya.jpg"
+      },
+      {
+        "name": "Dhaval Suthar",
+        "position": "Joint Technical Head",
+        "group": "technical",
+        "image": "2024/Dhaval.jpg"
+      },
+      {
+        "name": "Kunal Wakchaure",
+        "position": "Technical Executive",
+        "group": "technical",
+        "image": "2024/Kunaal.jpg"
+      },
+      {
+        "name": "Samidha Sonawane",
+        "position": "Technical Executive",
+        "group": "technical",
+        "image": "2024/Samidha.jpg"
+      },
+      {
+        "name": "Tanvi Mhasal",
+        "position": "Publicity Head",
+        "group": "publicity",
+        "image": "2024/Tanvi.jpg"
+      },
+      {
+        "name": "Kennice Dabreo",
+        "position": "Publicity Joint Head",
+        "group": "publicity",
+        "image": "2024/Kennice.jpg"
+      },
+      {
+        "name": "Clarice Lopes",
+        "position": "Publicity Joint Head",
+        "group": "publicity",
+        "image": "2024/Clarice.jpg"
+      },
+      {
+        "name": "Alyssa Miranda",
+        "position": "Publicity Executive",
+        "group": "publicity",
+        "image": "2024/Alyssa.jpg"
+      },
+      {
+        "name": "Sufiyaan",
+        "position": "Publicity Executive",
+        "group": "publicity",
+        "image": "2024/Sufiyaan.jpg"
+      },
+      {
+        "name": "Delisha Naik",
+        "position": "Documentarian",
+        "group": "documentation",
+        "image": "2024/Delisha.jpg"
+      },
+      {
+        "name": "Swapnil Singh",
+        "position": "Event Head",
+        "group": "event",
+        "image": "2024/Swapnil.jpg"
+      },
+      {
+        "name": "Reon Lemos",
+        "position": "Event Joint Head",
+        "group": "event",
+        "image": "2024/Reon.jpg"
+      },
+      {
+        "name": "Vedanti Bagkar",
+        "position": "Event Joint Head",
+        "group": "event",
+        "image": "2024/Vedanti.jpg"
+      },
+      {
+        "name": "Sharon Sam",
+        "position": "Event Executive",
+        "group": "event",
+        "image": "2024/Sharon.jpg"
+      },
+      {
+        "name": "Warren Machado",
+        "position": "Event Executive",
+        "group": "event",
+        "image": "2024/Warren.jpg"
+      },
+      {
+        "name": "Parth Patil",
+        "position": "Photographer",
+        "group": "photography",
+        "image": "2024/Parth.jpg"
+      },
+      {
+        "name": "Austin Cherian",
+        "position": "Marketing Head",
+        "group": "marketing",
+        "image": "2024/Austin.jpg"
+      },
+      {
+        "name": "Janhavi Joshi",
+        "position": "Marketing Executive",
+        "group": "marketing",
+        "image": "2024/Janhavi.jpg"
+      },
+      {
+        "name": "Siddhant Rangole",
+        "position": "Marketing Executive",
+        "group": "marketing",
+        "image": "2024/Siddhant.jpg"
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "name": "Merge Request",
+    "groups": [
+      "core",
+      "faculty",
+      "graphics",
+      "social-media",
+      "web",
+      "technical",
+      "publicity",
+      "documentation",
+      "event",
+      "photography"
+    ],
+    "members": [
+      {
+        "name": "Maria Rex",
+        "position": "President",
+        "group": "core",
+        "image": "2023/Rex.png"
+      },
+      {
+        "name": "Mukesh Gupta",
+        "position": "Vice-President",
+        "group": "core",
+        "image": "2023/Mukesh.png"
+      },
+      {
+        "name": "Jerio Soares",
+        "position": "Treasurer",
+        "group": "core",
+        "image": "2023/Jerio.png"
+      },
+      {
+        "name": "Janhavi Manve",
+        "position": "General Secretary",
+        "group": "core",
+        "image": "2023/Janhavi.png"
+      },
+      {
+        "name": "Dylan D'silva",
+        "position": "Social Media",
+        "group": "core",
+        "image": "2023/Dylan.png"
+      },
+      {
+        "name": "Rupesh Mishra",
+        "type": "faculty",
+        "position": "Faculty Advisor",
+        "group": "faculty",
+        "image": "2021/rupesh.png"
+      },
+      {
+        "name": "Dr. Kavita Sonawane",
+        "type": "faculty",
+        "position": "H.O.D.",
+        "group": "faculty",
+        "image": "2021/kavita.png"
+      },
+      {
+        "name": "Lloyd D'Souza",
+        "position": "Graphics Head",
+        "group": "graphics",
+        "image": "2023/Lloyd.png"
+      },
+      {
+        "name": "Jason Pereira",
+        "position": "Graphics Joint Head",
+        "group": "graphics",
+        "image": "2023/JasonP.png"
+      },
+      {
+        "name": "Gaurav Mane",
+        "position": "Graphics Joint Head",
+        "group": "graphics",
+        "image": "2023/Gaurav.png"
+      },
+      {
+        "name": "Shriya Saxena",
+        "position": "Graphics Executive",
+        "group": "graphics",
+        "image": "2023/Shriya.png"
+      },
+      {
+        "name": "Pournima Rode",
+        "position": "Graphics Executive",
+        "group": "graphics",
+        "image": "2023/Pournima.png"
+      },
+      {
+        "name": "Alroy Rodrigues",
+        "position": "Social Media Head",
+        "group": "social-media",
+        "image": "2023/Alroy.png"
+      },
+      {
+        "name": "Shane Coelho",
+        "position": "Web Master",
+        "group": "web",
+        "image": "2023/Shane.png"
+      },
+      {
+        "name": "Jason Sampy",
+        "position": "Web Master",
+        "group": "web",
+        "image": "2023/JasonS.png"
+      },
+      {
+        "name": "Shibhya Kaimal",
+        "position": "Technical Head",
+        "group": "technical",
+        "image": "2023/Shibhya.png"
+      },
+      {
+        "name": "Nigel Colaco",
+        "position": "Joint Technical Head",
+        "group": "technical",
+        "image": "2023/Nigel.png"
+      },
+      {
+        "name": "Om Kamerkar",
+        "position": "Joint Technical Head",
+        "group": "technical",
+        "image": "2023/Om.png"
+      },
+      {
+        "name": "Bhavik Solanki",
+        "position": "Technical Executive",
+        "group": "technical",
+        "image": "2023/Bhavik.png"
+      },
+      {
+        "name": "Dishant Shah",
+        "position": "Technical Executive",
+        "group": "technical",
+        "image": "2023/Dishant.png"
+      },
+      {
+        "name": "Carol Santhmayor",
+        "position": "Technical Executive",
+        "group": "technical",
+        "image": "2023/Carol.png"
+      },
+      {
+        "name": "Hajera Ali",
+        "position": "Publicity Head",
+        "group": "publicity",
+        "image": "2023/Hajera.png"
+      },
+      {
+        "name": "Ynez Dias",
+        "position": "Publicity Joint Head",
+        "group": "publicity",
+        "image": "2023/Ynez.png"
+      },
+      {
+        "name": "Shravani Trivedi",
+        "position": "Publicity Joint Head",
+        "group": "publicity",
+        "image": "2023/Shravani.png"
+      },
+      {
+        "name": "Melwin Das",
+        "position": "Publicity Executive",
+        "group": "publicity",
+        "image": "2023/Melwin.png"
+      },
+      {
+        "name": "Deep Patel",
+        "position": "Publicity Executive",
+        "group": "publicity",
+        "image": "2023/Deep.png"
+      },
+      {
+        "name": "Pranay Chavan",
+        "position": "Documentarian",
+        "group": "documentation",
+        "image": "2023/Pranay.png"
+      },
+      {
+        "name": "Joshua Sequeira",
+        "position": "Event Head",
+        "group": "event",
+        "image": "2023/Joshua.png"
+      },
+      {
+        "name": "Aslin Dcunha",
+        "position": "Event Joint Head",
+        "group": "event",
+        "image": "2023/Aslin.png"
+      },
+      {
+        "name": "Atharva Raut",
+        "position": "Event Joint Head",
+        "group": "event",
+        "image": "2023/Atharva.png"
+      },
+      {
+        "name": "Royan Chetty",
+        "position": "Event Executive",
+        "group": "event",
+        "image": "2023/Royan.png"
+      },
+      {
+        "name": "Royston D'souza",
+        "position": "Event Executive",
+        "group": "event",
+        "image": "2023/Royston.png"
+      },
+      {
+        "name": "Angeline Anthony",
+        "position": "Event Executive",
+        "group": "event",
+        "image": "2023/Angeline.png"
+      },
+      {
+        "name": "Yash Andhale",
+        "position": "Photographer",
+        "group": "photography",
+        "image": "2023/Yash.png"
+      }
+    ]
+  }
+]
