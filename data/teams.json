@@ -1,5 +1,227 @@
 [
   {
+    "year": "2025",
+    "name": "Stack Overflow",
+    "groups": [
+      "Core",
+      "Faculty",
+      "Graphics",
+      "Social Media",
+      "Web",
+      "Technical",
+      "Publicity",
+      "Documentation",
+      "Event",
+      "Photography"
+    ],
+    "members": [
+      {
+        "name": "Parth Patil",
+        "position": "Treasurer",
+        "group": "Core",
+        "image": "2025/Parth.jpg"
+      },
+      {
+        "name": "Vernon Isaac Alva",
+        "position": "Technical Executive",
+        "group": "Technical",
+        "image": "2025/Vernon.jpg"
+      },
+      {
+        "name": "Graceson Mohandas",
+        "position": "Graphics Joint Head",
+        "group": "Graphics",
+        "image": "2025/Graceson.jpg"
+      },
+      {
+        "name": "Ananya Mokashi",
+        "position": "Publicity Joint Head",
+        "group": "Publicity",
+        "image": "2025/Ananya.jpg"
+      },
+      {
+        "name": "Hasti Shah",
+        "position": "Technical Joint Head",
+        "group": "Technical",
+        "image": "2025/Hasti.jpg"
+      },
+      {
+        "name": "Annette Dabre",
+        "position": "Graphics Executive",
+        "group": "Graphics",
+        "image": "2025/Annette.jpg"
+      },
+      {
+        "name": "Sharon Sam",
+        "position": "Vice-President",
+        "group": "Core",
+        "image": "2025/Sharon.jpg"
+      },
+      {
+        "name": "Chenoa Pereira",
+        "position": "Event Joint Head",
+        "group": "Event",
+        "image": "2025/Chenoa.jpg"
+      },
+      {
+        "name": "Revati Ubhare",
+        "position": "Event Joint Head",
+        "group": "Event",
+        "image": "2025/Revati.jpg"
+      },
+      {
+        "name": "Calista Nazareth",
+        "position": "Publicity Executive",
+        "group": "Publicity",
+        "image": "2025/Calista.jpg"
+      },
+      {
+        "name": "Palesa Pereira",
+        "position": "Publicity Joint Head",
+        "group": "Publicity",
+        "image": "2025/Palesa.jpg"
+      },
+      {
+        "name": "Rahul Robert",
+        "position": "Event Executive",
+        "group": "Event",
+        "image": "2025/Rahul.jpg"
+      },
+      {
+        "name": "Rini Machado",
+        "position": "Publicity Joint Head",
+        "group": "Publicity",
+        "image": "2025/Rini.jpg"
+      },
+      {
+        "name": "Princee Philip Rodrigues",
+        "position": "Marketing Executive",
+        "group": "Marketing",
+        "image": "2025/Princee.jpg"
+      },
+      {
+        "name": "Janhavi Joshi",
+        "position": "Documentation Joint Head",
+        "group": "Documentation",
+        "image": "2025/Janhavi.jpg"
+      },
+      {
+        "name": "Valentino Gomes",
+        "position": "Graphics Head",
+        "group": "Graphics",
+        "image": "2025/Valentino.jpg"
+      },
+      {
+        "name": "Marc Serejo",
+        "position": "Event Executive",
+        "group": "Event",
+        "image": "2025/Marc.jpg"
+      },
+      {
+        "name": "Giselle Dmello",
+        "position": "Documentation Joint Head",
+        "group": "Documentation",
+        "image": "2025/Giselle.jpg"
+      },
+      {
+        "name": "Priyal Namye",
+        "position": "Marketing Executive",
+        "group": "Marketing",
+        "image": "2025/Priyal.jpg"
+      },
+      {
+        "name": "Mountantony Nadar",
+        "position": "Marketing Head",
+        "group": "Marketing",
+        "image": "2025/Mountantony.jpg"
+      },
+      {
+        "name": "Roseanne Shaibu",
+        "position": "Technical Executive",
+        "group": "Technical",
+        "image": "2025/Roseanne.jpg"
+      },
+      {
+        "name": "Radhika Godambe",
+        "position": "Publicity Head",
+        "group": "Publicity",
+        "image": "2025/Radhika.jpg"
+      },
+      {
+        "name": "Dhaval Suthar",
+        "position": "Technical Head",
+        "group": "Technical",
+        "image": "2025/Dhaval.jpg"
+      },
+      {
+        "name": "Reon Lemos",
+        "position": "President",
+        "group": "Core",
+        "image": "2025/Reon.jpg"
+      },
+      {
+        "name": "Kunaal Wakchaure",
+        "position": "Web Master",
+        "group": "Web",
+        "image": "2025/Kunaal.jpg"
+      },
+      {
+        "name": "Keene Machado",
+        "position": "Marketing Joint Head",
+        "group": "Marketing",
+        "image": "2025/Keene.jpg"
+      },
+      {
+        "name": "Kennen",
+        "position": "Event Executive",
+        "group": "Event",
+        "image": "2025/Kennen.jpg"
+      },
+      {
+        "name": "Kenneth Jerome Fernandes",
+        "position": "Technical Joint Head",
+        "group": "Technical",
+        "image": "2025/Kenneth.jpg"
+      },
+      {
+        "name": "Eugene Dabre",
+        "position": "Graphics Joint Head",
+        "group": "Graphics",
+        "image": "2025/Eugene.jpg"
+      },
+      {
+        "name": "Sarthak Kumar",
+        "position": "Graphics Executive",
+        "group": "Graphics",
+        "image": "2025/Sarthak.jpg"
+      },
+      {
+        "name": "Marc Serejo",
+        "position": "Event Executive",
+        "group": "Event",
+        "image": "2025/Marc.jpg"
+      },
+      {
+        "name": "Warren",
+        "position": "Event Head",
+        "group": "Event",
+        "image": "2025/Warren.jpg"
+      },
+      {
+        "name": "Vedanti Bagkar",
+        "position": "General Secretary",
+        "group": "Core",
+        "image": "2025/Vedanti.jpg"
+      },
+      {
+        "name": "Kennice James Dabreo",
+        "position": "Head",
+        "group": "Core",
+        "image": "2025/Kennice.jpg"
+      }
+    ]
+  },
+  {
     "year": "2024",
     "name": "pip install",
     "groups": [
