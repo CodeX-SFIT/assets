@@ -16,6 +16,28 @@
     ],
     "members": [
       {
+        "name": "Rupesh Mishra",
+        "type": "faculty",
+        "position": "Faculty Advisor",
+        "group": "faculty",
+        "image": "2021/rupesh.png"
+      },
+      {
+        "name": "Dr. Kavita Sonawane",
+        "type": "faculty",
+        "position": "Faculty Advisor",
+        "group": "faculty",
+        "image": "2021/kavita.png"
+      },
+      {
+        "name": "Dr. Dakshata Panchal",
+        "type": "faculty",
+        "position": "H.O.D.",
+        "group": "faculty",
+        "image": "2025/dakshata.png"
+      },
+      
+      {
         "name": "Parth Patil",
         "position": "Treasurer",
         "group": "Core",
